@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Intelliticks/static/css/main.41cc1464.chunk.css",
+    "main.js": "/Intelliticks/static/js/main.642af704.chunk.js",
+    "main.js.map": "/Intelliticks/static/js/main.642af704.chunk.js.map",
+    "runtime-main.js": "/Intelliticks/static/js/runtime-main.32f07c5f.js",
+    "runtime-main.js.map": "/Intelliticks/static/js/runtime-main.32f07c5f.js.map",
+    "static/js/2.843dabe3.chunk.js": "/Intelliticks/static/js/2.843dabe3.chunk.js",
+    "static/js/2.843dabe3.chunk.js.map": "/Intelliticks/static/js/2.843dabe3.chunk.js.map",
+    "static/js/3.d72cd1ee.chunk.js": "/Intelliticks/static/js/3.d72cd1ee.chunk.js",
+    "static/js/3.d72cd1ee.chunk.js.map": "/Intelliticks/static/js/3.d72cd1ee.chunk.js.map",
+    "index.html": "/Intelliticks/index.html",
+    "static/css/main.41cc1464.chunk.css.map": "/Intelliticks/static/css/main.41cc1464.chunk.css.map",
+    "static/js/2.843dabe3.chunk.js.LICENSE.txt": "/Intelliticks/static/js/2.843dabe3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32f07c5f.js",
+    "static/js/2.843dabe3.chunk.js",
+    "static/css/main.41cc1464.chunk.css",
+    "static/js/main.642af704.chunk.js"
+  ]
+}
